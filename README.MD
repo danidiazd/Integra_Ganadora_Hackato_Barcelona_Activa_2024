@@ -2,7 +2,7 @@
 
 # APLICACIÓ GUANYADORA DE LA HACKATHÓ DE @BARCELONA ACTIVA
 
-![img.png](img.png)
+![img.png](src/img.png)
 
 ![foto1_guanyadors.jpg](..%2Fassets%2Ffoto1_guanyadors.jpg)
 
