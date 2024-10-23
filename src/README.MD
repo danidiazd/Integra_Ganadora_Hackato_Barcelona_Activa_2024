@@ -1,12 +1,20 @@
 ![image](https://github.com/user-attachments/assets/85a4261b-e310-458d-85b5-beef3db1bfaf)
 
-# Grup 3
+# APLICACIÓ GUANYADORA DE LA HACKATHÓ DE @BARCELONA ACTIVA
+
+![img.png](img.png)
+
+![foto1_guanyadors.jpg](..%2Fassets%2Ffoto1_guanyadors.jpg)
+
+
+
+# Grup 3 - Integra
 
 # Repte 1: Sequera a la ciutat de Barcelona
 - Tòpic: Canvi climàtic
 - Agenda 2030: ODS Acció Climàtica | ODS 11: Ciutats i comunitats sostenibles | ODS 6: Aigua neta i sanejament
 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/PropTypes-lightblue?style=flat&logo=React&logoColor=black" alt="PropTypes Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat" alt="React Router Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge" style="height: 23px;"> <img src="https://github.com/user-attachments/assets/7e0fc0e6-f118-4f2d-9aba-e330ba6220e8" alt="Vite Badge" style="height: 23px;">
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" alt="Java Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat" alt="Spring Boot Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat" alt="Swagger Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/PropTypes-lightblue?style=flat&logo=React&logoColor=black" alt="PropTypes Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat" alt="React Router Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge" style="height: 23px;"> <img src="https://github.com/user-attachments/assets/7e0fc0e6-f118-4f2d-9aba-e330ba6220e8" alt="Custom Badge" style="height: 23px;">
 
 
 
@@ -90,14 +98,17 @@ Per a començar a utilitzar aquesta plantilla, seguiu aquests passos:
    Això iniciarà el servidor de desenvolupament, i podreu veure l'aplicació a `http://localhost:5173` (o el port configurat).
 
 ## Backend - https://github.com/mikedukakis/sequia_integra
-
 ### Eines utilitzades
 
-Utilitzem **Spring Boot** + **Java** + **Kotlin** per a desenvolupar l'aplicació backend.
+Utilitzem **Spring Boot** + **Java** per a desenvolupar l'aplicació backend.
 Altres eines emprades:
 - **Gradle**: eina d'automatització de la construcció.
 - **Reactor**: llibreria per a programació reactiva amb Java.
 - **Mockito**: framework per a proves unitàries.
+- **MongoDB**: base de dades NoSQL.
+- **Swagger**: per a documentar l'API REST.
+- **Postman**: per a provar l'API REST.
+
 
 ### Instal·lació
 
@@ -124,5 +135,16 @@ Per a començar a utilitzar aquesta plantilla, seguiu aquests passos:
    ```
    Això iniciarà el servidor de desenvolupament, i podreu veure l'aplicació a `http://localhost:8080` (o el port configurat).
 
+## Postman
+```bash
+importa la col·lecció de Postman que es troba a la carpeta postman del repositori.
+```
+
+## Swagger
+Un cop l'aplicació s'hagi iniciat,
+Per a accedir a la documentació de l'API REST, accedeix a la següent URL:
+```bash
+http://localhost:8080/swagger-ui.html
+```
 ## Nosaltres
-Som un equip de 9 entusiastes de la tecnologia: 4 persones en frontend ([Alex](https://github.com/alexbessedonato), [Carlos](https://github.com/davila795), [Lucía](https://github.com/luovtyrell) i [Raquel](https://github.com/gatchan1)), 3 persones en backend ([Dani](https://github.com/danidiazd), [Ignasi](https://github.com/mikedukakis) i [Montse](https://github.com/m-maso)) i dues persones en data analysis ([Fede](https://github.com/fhlabate) i [Joseph](https://github.com/joetaco06)).
+Som un equip de 9 entusiastes de la tecnologia: 4 persones en frontend ([Alex](https://github.com/alexbessedonato), [Carlos](https://github.com/davila795), [Lucía](https://github.com/luovtyrell) i [Raquel](https://github.com/gatchan1)), 2 persones en backend ([Dani](https://github.com/danidiazd), [Ignasi](https://github.com/mikedukakis)) i dues persones en data analysis ([Fede](https://github.com/fhlabate) i [Joseph](https://github.com/joetaco06)).
