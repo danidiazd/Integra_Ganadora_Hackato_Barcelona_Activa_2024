@@ -97,7 +97,7 @@ Per a començar a utilitzar aquesta plantilla, seguiu aquests passos:
 
    Això iniciarà el servidor de desenvolupament, i podreu veure l'aplicació a `http://localhost:5173` (o el port configurat).
 
-## Backend - https://github.com/mikedukakis/sequia_integra
+## Backend - https://github.com/danidiazd/Integra_Ganadora_Hackato_Barcelona_Activa_2024
 ### Eines utilitzades
 
 Utilitzem **Spring Boot** + **Java** per a desenvolupar l'aplicació backend.
