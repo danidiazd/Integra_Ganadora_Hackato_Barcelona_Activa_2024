@@ -29,7 +29,7 @@ public class TemperatureServiceImpl implements TemperatureService {
             throw new IllegalArgumentException("Month must be between 1 and 12");
         }
         if (year < 1900 || year > 2023) {
-            throw new IllegalArgumentException("Month must be between 1 and 12");
+            throw new IllegalArgumentException("Year must be between 1900 and 2023");
         }
         return temperatureRepository.findByYearAndMonth(year, month);
     }
